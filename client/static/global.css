@@ -1,0 +1,36 @@
+table:not(.horizontal) {
+    max-height: none;
+    overflow-x: hidden;
+}
+
+.text-green {
+    color: #1ec029;
+}
+
+.text-orange {
+    color: #ddaa12;
+}
+
+.text-red {
+    color: #cc2121;
+}
+
+.text-grey {
+    color: #777
+}
+
+.text-center {
+    text-align: center;
+}
+
+.max-width-120 {
+    max-width: 120px;
+}
+
+.max-width-200 {
+    max-width: 200px;
+}
+
+.min-width-200 {
+    min-width: 200px;
+}
